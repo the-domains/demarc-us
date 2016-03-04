@@ -1,0 +1,28 @@
+name: Demarc.us
+favicon: null
+layout_spectrum: 0.23157983948476613
+typography_spectrum: 0.5719769347924739
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7766832711640745
+  lightness: 0.2935740363318473
+  saturation: 0.5086572337895632
+  rhythmicContrast: 0.6749836208764464
+purpose: []
